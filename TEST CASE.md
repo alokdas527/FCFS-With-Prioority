@@ -36,7 +36,7 @@ Average Waiting Time: 17.4
 Average Turnaround Time: 22.2
 
 
-test case 2:-
+*test case 2:-
 Enter number of process: 3
 
 Enter Arrival time:
